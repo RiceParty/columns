@@ -11,7 +11,7 @@
 - 不能删除
 - 内存利用率低
 
-- cbt
-- 布谷鸟过滤器
+- cbt https://cloud.tencent.com/developer/article/1136056
+- 布谷鸟过滤器 https://juejin.im/post/5cfb9c74e51d455d6d5357db
 
-- redis 布隆过滤器
+- redis 布隆过滤器 https://juejin.im/post/5cfd060ee51d4556f76e8067
