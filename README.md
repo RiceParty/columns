@@ -1,5 +1,5 @@
 # columns
-#### this should be columbus, and i dont know why finally named colums. yea...
+#### this should be columbus, and i dont know why finally named columns. yea...
 
 
 ### 布隆过滤器
