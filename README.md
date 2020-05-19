@@ -19,6 +19,8 @@
 ### kafka
 
 - https://mp.weixin.qq.com/s/NZLK5sioPlx2fSyaoyoH8Q
+- org.springframework.kafka.listener.KafkaMessageListenerContainer.ListenerConsumer#run
+- org.springframework.kafka.listener.KafkaMessageListenerContainer#doStart
 
 ### k8s
 
