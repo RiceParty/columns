@@ -16,6 +16,10 @@
 
 - redis 布隆过滤器 https://juejin.im/post/5cfd060ee51d4556f76e8067
 
+### kafka
+
+- https://mp.weixin.qq.com/s/NZLK5sioPlx2fSyaoyoH8Q
+
 ### k8s
 
 ##### minikube
