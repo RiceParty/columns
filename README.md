@@ -22,6 +22,8 @@
 
 ### k8s
 
+- https://zhuanlan.zhihu.com/p/39937913
+
 ##### minikube
 
 - Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a Virtual Machine (VM) on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
