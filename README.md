@@ -16,11 +16,19 @@
 
 - redis 布隆过滤器 https://juejin.im/post/5cfd060ee51d4556f76e8067
 
+### redis
+
+- sortedSet https://juejin.im/post/57fa935b0e3dd90057c50fbc
+
 ### kafka
 
 - https://mp.weixin.qq.com/s/NZLK5sioPlx2fSyaoyoH8Q
 - org.springframework.kafka.listener.KafkaMessageListenerContainer.ListenerConsumer#run
 - org.springframework.kafka.listener.KafkaMessageListenerContainer#doStart
+
+### 架构
+
+- 秒杀 https://juejin.im/post/5dd09f5af265da0be72aacbd
 
 ### k8s
 
